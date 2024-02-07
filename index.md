@@ -1,14 +1,4 @@
 
-<h1>
-<center> 
-        <p>
-         دانلود برنامه هیدیفای نکست
-        </p>
-</center>
-</h1>
-
-
----
 
 🟠 [*Android*](https://github.com/hiddify/hiddify-next/releases/latest/download/hiddify-android-universal.apk) 
 
